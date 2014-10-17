@@ -1,0 +1,19 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: enhframe.zip
+
+Program Description: Source code and example of OpaqueMoving.
+
+Operating System Versions: OS/2 2.x, 3.x
+
+Program Source: Author
+
+Replaces: N/A
+
+Your name: Dan Akselrod
+
+Your email address: danax@menger.eecs.stevens-tech.edu
+
+Proposed directory for placement: \os2\dev32
+
+

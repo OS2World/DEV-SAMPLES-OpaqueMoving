@@ -1,0 +1,28 @@
+This is a program I wrote to explore the possibilities of
+Opaque window moves. It allows the user to move the
+window by it's title bar, without the wire frame. It moves
+the actual window with the mouse.
+
+One other interesting idea is that the window doesn't pop
+up to the foreground when moved. This allows the window
+to be moved without changing it's "z-order". The window does
+pop up with just a click on it.
+
+The program is available with source code. enhframe.c and
+enhframe.h can be incorporated into any program. So if you
+are a programmer you can take these files and add them to
+your project. A simple call to EnhanceFrame(hwndFrame);
+will make your frame OpaqueMovable.
+
+The enhwin.exe is a compilation of enhwin.c that uses enhframe
+module to enhance it's frame.
+
+enhframe.mak is a makefile for BC OS/2. If anyone can write me
+a tested make file for any other compiler, please send it to me.
+I would apperciate that. If you unzipped it using unzip.exe
+shareware utility, EA's of the files should have been extracted.
+The make file has a "Make Me" menu added on. Select it if you
+use BC OS/2.
+
+--------------------
+STANDARD DISCLAIMER.
